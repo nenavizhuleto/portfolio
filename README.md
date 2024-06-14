@@ -1,57 +1,60 @@
 # Portfolio
 
-## What I've worked on
+## About Me
 
-### Инструмент коммуникации с электросчетчиком [Mercury236](https://www.incotexcom.ru/catalogue/236art) [Repo](https://github.com/nenavizhuleto/general-telecom/tree/main/mercury236)
+Приветствую, Я Software Engineer, мои направления это:
+- Backend (client-server)
+- System
+- Embedded systems
+- CLI tools
 
-### Скрипт проверки актуальности SSL сертификата [Repo](https://github.com/nenavizhuleto/general-telecom/tree/main/zabbix-ssl-expire)
+По воли случая, занимался совершенно разного рода задачами.
 
-### Администрирование Unix-серверов
+### DevOps
+- От запуска локальных контейнеров для тестирования, до проектирования многостраничного compose.yml файла
+для запуска Highload систем в продакшн.
+- От чистки места на диске в Linux, до развертывания систем мониторинга Grafana / Zabbix.
+- От поиска открытых портов в локальной сети, до восстановления доступа к оболочке в закрытом контуре.
+- От конфигов nginx и ISPManager, до запуска работающей платформы Bitrix24 для сайта клиента.
 
-### Администрирование [Zabbix](https://www.zabbix.com/)
+Собственно-ручно поднимал Gitlab и настраивал CI/CD пайплайны.
 
-#### Телеграм-бот на Python для уведомлений из Zabbix
+Знаком/Использовал:
+- VMWare / ESXi (ставил на SuperMicro)
+- Mikrotik (настройка, мониторинг, скриптинг)
+- BMC / IPMI / и др. (работа, обновление)
+- Прошивка HP RAID контроллеров (ад)
+- Скриптинг на Bash / Python
 
-### Администрирование [Grafana](https://grafana.com/)
+### Reverse-engineer
+- Сниффинг трафика устройств для описания протокола общения
+- Написание программ имитирующих устройства
+- Дисассемблирование программ и поиск уязвимостей
+- На этом тут можно закончить :)
 
-#### [Пользовательское расширение](https://github.com/nenavizhuleto/general-telecom/tree/main/python-zkteco-library) систем контрольно-пропускного назначения [ZKTeco](https://www.zkteco.com/en/)
+### SWE
 
-#### Графики мониторинга прибывания сотрудников на рабочем месте на базе Grafana
+Писал на таких языках как:
+- Bash / Python / JavaScript / PHP / Lua 
+- C/C++ / Rust / Zig / Golang
+- Java / C#
+- Elixir / Ocaml
 
-### Телеграм-бот на Python для составления заявок в ремонтный сервис
+Базы данных:
+- MySQL / Sqlite / Postgres
+- MongoDB / Redis
+- InfluxDB
 
-### Администрирование интерфейсов [IPMI](https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface) разный версий
+Развиваюсь в направлении системного и встроенного программирования.
+Хочу получить опыт коммерческой разработки на C/C++, Rust, Elixir.
 
-### Администрирование [ESXi](https://en.wikipedia.org/wiki/VMware_ESXi)
+Реализовывал проекты разной сложности и размера:
+- Маленькие системные, консольные утилиты, парсеры, генераторы.
+- Телеграм боты с диалогами и без.
+- Программы для внутреннего использования в компании..
+- Клиент-сервер приложения.
+- Крупные проекты на микросервисной архитектуре.
 
-### Разработка решения на базе [Asterisk](https://www.asterisk.org/) для строительной компании
+---
 
-#### Администрирование [BasIP](https://www.bas-ip.ru/)
-
-#### Администрирование системы [TrueIP](https://true-ip.ru/)
-
-#### ATS-Proxy на Asterisk
-
-### Прошивка контроллеров [SAS](https://en.wikipedia.org/wiki/Serial_Attached_SCSI) и [RAID](https://en.wikipedia.org/wiki/RAID) на накопителях [Repo](https://github.com/nenavizhuleto/pm09a1)
-
-### Изучение шифрования медиа-материалов в интернете [VdoCipher](https://www.vdocipher.com/)
-
-### Расширение функционала промышленного тепловычислителя [TV7](http://termotronic.ru/products/tv7/) [Repo](https://github.com/nenavizhuleto/general-telecom/tree/main/tv7)
-
-### Администрирование [Систем Хранения Данных Huawei](https://www.huawei-networks.ru/catalog/sistemy_khraneniya_dannykh_huawei)
-
-### Расширение [устройств балансирующих напряжение](https://www.jkbms.com/) [Repo](https://github.com/nenavizhuleto/general-telecom/tree/main/jkrs)
-
-### Администрирование [DCIM: Netbox](https://docs.netbox.dev/en/stable/)
-
-### Система идентификации по MAC-адресу на базе [Mikrotik](https://mikrotik.com/)
-
-### Миграция сайтов на базе [Bitrix](https://www.bitrix24.com/) через сервера
-
-### Система аварийного отключения сетевого доступа к серверу [Repo](https://github.com/nenavizhuleto/telegram-emergency-bot)
-
-### Приложение для формирование отчетности на базе пользовательского решения двойной аутентификации
-
-### Администрирование системы [Trassir](https://trassir.ru/)
-
-### Администрирование DNS и хостингов через [ISPManager](https://www.ispmanager.ru/)
+Секции будут дописываться, со временем допишу еще области в которых работал
